@@ -25,7 +25,9 @@ justify-content: space-between;
 padding-top: 30px;
 padding-bottom: 50px;}
 .side-menu>ul{display: flex;
-gap: 34px;}
+gap: 34px;
+;}
+
 
 .shop-name{padding-left: 100px;}
 .side-menu{padding-right: 100px;}
@@ -105,7 +107,7 @@ flex-direction: column;
 
 align-items: center;}
 .footer-link>a{margin-left: 15px;}
-.all-footer>p,i{color: rgb(215, 222, 228);}
+.all-footer>p,a{color: rgb(215, 222, 228);}
 .all-footer>p{margin: 0;
 padding: 0;}
 .new{color: rgb(215, 222, 228) ;}
