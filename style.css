@@ -40,7 +40,9 @@ color: black;}
 .camera-content{display: flex;
 justify-content: space-around;
 ;}
-
+.camera{border: 1px solid #F1E4FF;
+border-radius: 50%;
+}
 .content{padding-top: 70px;}
 .home-page{width: 1440px;
 background-color: a;
@@ -111,3 +113,5 @@ align-items: center;}
 .all-footer>p{margin: 0;
 padding: 0;}
 .new{color: rgb(215, 222, 228) ;}
+
+
